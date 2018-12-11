@@ -19,3 +19,10 @@
 - description: Update README to add more info about working canOpenURL in iOS
 - PR: [link](https://github.com/react-native-community/react-native-share/pull/416#issue-237119537)
 - merge status: merged
+
+**4. [react-native-modal](https://github.com/react-native-community/react-native-modal)**
+
+- description: Update README to add eumji-modal-pattern
+- PR: [link](https://github.com/react-native-community/react-native-modal/pull/231#issue-237570646)
+- merge status: not yet
+
