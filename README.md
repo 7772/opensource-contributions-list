@@ -26,3 +26,8 @@
 - PR: [link](https://github.com/react-native-community/react-native-modal/pull/231#issue-237570646)
 - merge status: not yet
 
+**5. [react-native](https://github.com/facebook/react-native)**
+
+- description: Ignore dropView when view is null.
+- PR: [link](https://github.com/facebook/react-native/pull/24347)
+- merge status: merged
